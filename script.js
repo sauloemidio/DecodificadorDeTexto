@@ -37,7 +37,7 @@ function encryptDecrypt(){
     if(mensagem.value.length > 0){
         mensagem.style.backgroundImage = "url('')";
     }else{
-        mensagem.style.backgroundImage = "url('/imagens/boneco.png')";
+        mensagem.style.backgroundImage = "url('./imagens/boneco.png')";
     }
     
     }
