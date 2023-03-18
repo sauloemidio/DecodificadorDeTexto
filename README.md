@@ -17,7 +17,7 @@
 
 Decodificador de texto com Javascript
 
-- **[Executar aplicação]([https://](https://sauloemidio.github.io/DecodificadorDeTexto/))**
+- **[Executar aplicação](https://sauloemidio.github.io/DecodificadorDeTexto)**
 
 
 ## License
